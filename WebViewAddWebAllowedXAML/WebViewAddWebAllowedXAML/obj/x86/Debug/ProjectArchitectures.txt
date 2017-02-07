@@ -1,0 +1,2 @@
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebViewAddWebAllowedXAML\WebViewAddWebAllowedXAML\WebViewAddWebAllowedXAML.csproj;x86
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebViewAddWebAllowedXAML\WindowsRuntimeComponent1\WindowsRuntimeComponent1.vcxproj;x86
